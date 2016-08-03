@@ -1,0 +1,99 @@
+*{
+	font-family: 'Lato', sans-serif;
+}
+li{
+	display: inline-block;
+	list-style: none;
+	margin-left: 3%;
+	margin-top: 10%;
+}
+/*esta clase se uso para darle tamaño y margen al logo pequeño en el header*/
+.cs{
+	width: 35%;
+	margin-left: 40%;
+}
+.p{
+	background-color: #EFEEEE;
+	padding: 5% 18%;
+}
+.sem{
+	width: 101%;
+}
+.mg{
+	margin: 5% 0%;
+}
+.lid{
+	width: 103%;
+}
+.w{
+	color: #FFFFFF;
+}
+.esm{
+	background-image: url("../img/fondo.jpg");
+	background-size: 100%;
+	height: 444px;
+}
+.wi{
+	width: 70%;
+}
+.green{
+	background-color: #409442;
+	color: white;
+}
+.mgl{
+	margin-left: -57%;
+}
+.mgt{
+	margin-top: 5%;
+}
+.equipo{
+	border-radius: 100%;
+}
+.icon{
+	width: 80%;
+}
+.icons{
+	width: 28%;
+}
+.flechai{
+	margin-top: 42%;
+	margin-left: 60%;
+}
+.flechad{
+	margin-top: 100%;
+	margin-right: 55%;
+}
+.blog{
+	margin-left: 8%;
+}
+.gris{
+	background-image: url("../img/fondo2.jpg");
+	padding: 1.5%;
+}
+.rs{
+	width: 20%;
+	margin-right: 40%;
+	margin-bottom: 35%;
+	margin-top: 65%;
+	margin-left: 60%;
+}
+.tit{
+	margin-top: 5%;
+	margin-left: 5%;
+	color: #FFFFFF;	
+}
+.bor{
+	height: 250px;
+	width: 300px;
+	border: 1px solid #FFFFFF;
+}
+span{
+	color: #F9CE04;
+}
+a{
+	text-decoration: none;
+	color: #000000;
+}
+a:hover{
+	color: #3CBF02;
+}
